@@ -1,4 +1,4 @@
 # git-basics-demo
-I am learning from balaji masai classes
-Rajesh
-Hyd
+This is a demo repository to understand the flow of the code and learn git.
+--balaji chippada
+--Hyd
